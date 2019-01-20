@@ -1,0 +1,35 @@
+{
+  "name": "grid-align",
+  "version": "1.0.0",
+  "description": "Grid Align is a simple JavaScript library for aligning children of grid-like elements, so that there is no unused white space at the end of the rows.",
+  "main": "dist/gridalign.js",
+  "scripts": {
+    "webpack": "webpack --mode development",
+    "webpack-demo": "webpack --config example/webpack.config.js --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owen-m1/Grid-Align.git"
+  },
+  "keywords": [
+    "grid",
+    "align",
+    "sort",
+    "fit",
+    "whitespace",
+    "squeeze"
+  ],
+  "author": "owenm <owen23355@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/owen-m1/Grid-Align/issues"
+  },
+  "homepage": "https://github.com/owen-m1/Grid-Align#readme",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "babel-loader": "^8.0.5",
+    "babel-polyfill": "^6.26.0",
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.1"
+  }
+}
