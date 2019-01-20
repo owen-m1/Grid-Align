@@ -5,6 +5,10 @@
 
 NOTE: I know the algorithm is not perfect, but it is the fastest one I could come up with for working with a lot of items (100+)
 
+Install:
+```
+npm i -S grid-align
+```
 ## Options
 ### randomizeRows
 Randomizes the order of the rows (excluding the last row).  With this option disabled, the larger elements will all be at the top of the grid.
