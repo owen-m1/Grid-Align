@@ -1,0 +1,6 @@
+example/
+node_modules/
+logo.xcf
+src/gridAlignAllPossible.js
+node_modules/
+package-lock.json

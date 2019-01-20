@@ -1,6 +1,6 @@
 {
   "name": "grid-align",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Grid Align is a simple JavaScript library for aligning children of grid-like elements, so that there is no unused white space at the end of the rows.",
   "main": "dist/gridAlign.min.js",
   "scripts": {
